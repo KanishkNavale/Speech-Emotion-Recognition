@@ -14,7 +14,7 @@ A simple CNN-LSTM deep neural model using Tensorflow to classify emotions from s
 * Training Log,
     <p align="left"><img src="training_log.png" width="350">
 * Results,
-    <p align="left"><img src="confusion_matrix.png" width="250" text="Confusion Matrix">
+    <p align="left"><img src="confusion_matrix.png" width="250" title="Confusion Matrix">
 ## Dependencies
 Install dependencies using:
 ```bash
